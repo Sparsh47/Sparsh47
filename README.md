@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Sparsh Shandilya</h1>
 <h3 align="center">Crafting beautiful and functional interfaces with code</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
