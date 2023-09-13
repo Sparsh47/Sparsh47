@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparshshandilya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshshandilya" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sparshshandilya](https://willowy-sherbet-f85d1b.netlify.app/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://th.bing.com/th/id/R.89781f9d1ea6d60175e44db9efbf2a9e?rik=yIUR2R9%2fnfMhfw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_182200.png&ehk=2Pz75MY3sXwx6RivP%2buKpX6yGmZTFa%2bXcjnvs%2bisWxk%3d&risl=&pid=ImgRaw&r=0)" alt="sparshshandilya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
