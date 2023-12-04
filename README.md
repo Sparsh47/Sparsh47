@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh47&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh47" /> </p>
 
-- 🔭 I’m currently working on **Anime Recommendations Website**
+- 🔭 I’m currently working on **Multilingual Chat Application**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **JavaScript and CSS**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **sparshshandilya123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BVV667ytH8q1zBMe6F4c1ObePZ5udgqB/view?usp=sharing](https://drive.google.com/file/d/1BVV667ytH8q1zBMe6F4c1ObePZ5udgqB/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1BVV667ytH8q1zBMe6F4c1ObePZ5udgqB/view?usp=sharing](https://drive.google.com/file/d/1BVV667ytH8q1zBMe6F4c1ObePZ5udgqB/view?usp=sharing)](https://drive.google.com/file/d/1nFONfwWSkJzXA0VoStVTFpc7Wz_f8Poo/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny in a weird way.**
 
