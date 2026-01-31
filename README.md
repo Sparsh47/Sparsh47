@@ -17,7 +17,7 @@ I’m a Fullstack Developer based in India, obsessed with squeezing performance 
 - 🚀 **Building:** [GhostDesk](https://github.com/sparsh47) (Real-time collab) & an **AI Stock Video Generator**.
 - 🛠️ **Deep Diving:** JavaScript Memory Management (V8 engine) & Django architecture.
 - 💬 **Ask me about:** MERN Stack, UI Design, or why my code usually works on the third try.
-- 📄 **Resume:** [View Experience](https://drive.google.com/file/d/1nFONfwWSkJzXA0VoStVTFpc7Wz_f8Poo/view?usp=sharing)
+- 📄 **Resume:** [View Experience](https://drive.google.com/file/d/1ZEpqouXynni6-V3VVtQ9ZvwTmwdrBx8B/view?usp=sharing)
 - 🧠 **Fun Fact:** I’m funny in a weird way, but usually only after the coffee kicks in.
 
 ---
@@ -54,7 +54,7 @@ When I'm not in the IDE, I'm focusing on:
 <a href="https://x.com/D_E_V_sparsh" target="blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
 </a>
-<a href="https://willowy-sherbet-f85d1b.netlify.app/" target="blank">
+<a href="https://sparsh47.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" />
 </a>
 <a href="mailto:sparshshandilya123@gmail.com">
