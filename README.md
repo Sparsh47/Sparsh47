@@ -1,33 +1,76 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<div align="center">
+  <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" width="100%" alt="Banner" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Sparsh Shandilya</h1>
-<h3 align="center">Crafting beautiful and functional interfaces with code</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
+<h3 align="center">Fullstack Developer | Architecting Scalable Web Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh47&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh47" /> </p>
-
-- 🔭 I’m currently working on **Ai Stock Video Generator App**
-
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **sparshshandilya123@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1nFONfwWSkJzXA0VoStVTFpc7Wz_f8Poo/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny in a weird way.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sparshshandilya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshshandilya" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/sparshshandilya](https://willowy-sherbet-f85d1b.netlify.app/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://th.bing.com/th/id/R.89781f9d1ea6d60175e44db9efbf2a9e?rik=yIUR2R9%2fnfMhfw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_182200.png&ehk=2Pz75MY3sXwx6RivP%2buKpX6yGmZTFa%2bXcjnvs%2bisWxk%3d&risl=&pid=ImgRaw&r=0)" alt="sparshshandilya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sparsh47&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh47&show_icons=true&locale=en&layout=compact" alt="sparsh47" /></p>
+### ⚡ A Little About Me
+I'm a Fullstack Developer based in India, currently working at **Systemsway**. I thrive at the intersection of high-performance engineering and minimalist design. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparsh47&show_icons=true&locale=en" alt="sparsh47" /></p>
+- 🚀 **Currently Building:** [GhostDesk](https://github.com/sparsh47) (Real-time collab) & an **AI Stock Video Generator**.
+- 🌱 **Learning:** Deep diving into **Django** and **Browser Internals** (V8 & Memory Management).
+- 💬 **Ask me about:** Vibe-coding, MERN Stack, or why I think I'm funny in a weird way.
+- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1nFONfwWSkJzXA0VoStVTFpc7Wz_f8Poo/view?usp=sharing)
+- 📫 **Reach me:** [sparshshandilya123@gmail.com](mailto:sparshshandilya123@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh47&" alt="sparsh47" /></p>
+---
+
+### 🎨 Beyond The Terminal
+When I'm not debugging, you'll find me:
+* 🤸 **Calisthenics:** Training for bodyweight strength and mobility.
+* 🎸 **Music:** Learning guitar and experimenting with AI music (Suno/Udio).
+* 🎬 **Animation:** Creating Kurzgesagt-style visuals to simplify complex tech concepts.
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,django,python,html,css,tailwind,bootstrap,figma,git" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Ecosystem
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sparsh47&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh47&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh47&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
+</div>
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/sparshshandilya" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://willowy-sherbet-f85d1b.netlify.app/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:sparshshandilya123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
+</div>
